@@ -31,4 +31,5 @@ The program uses a `for` loop to dynamically parse these arrays, utilizing the 3
 3. Open the Serial Monitor and ensure your baud rate dropdown is set to `9600` to match the `Serial.begin(9600)` configuration.
 4. Cover the photoresistor to drop the sensor value below 300 and initialize the melody.
 
-## Project Video Link: https://github.com/user-attachments/assets/2ba9c918-593d-4613-82a7-8a743890f44b
+## Project Video Link:
+https://github.com/user-attachments/assets/2ba9c918-593d-4613-82a7-8a743890f44b
