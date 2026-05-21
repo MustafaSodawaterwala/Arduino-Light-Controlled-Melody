@@ -3,7 +3,7 @@
 An interactive embedded systems project that utilizes an Arduino Uno R4 WiFi to orchestrate hardware peripherals based on environmental ambient light levels. When light drops below a defined threshold, the system triggers an automated red LED warning status, executes a complete 30-note musical arrangement of the *Harry Potter Theme*, and drives a synchronized, dynamic scrolling marquee on an I2C Liquid Crystal Display.
 
 ### Project Demonstration
-https://github.com/user-attachments/assets/2ba9c918-593d-4613-82a7-8a743890f44b
+https://github.com/user-attachments/assets/4655389c-c5a7-403e-aacd-fa913438a219
 
 ---
 
